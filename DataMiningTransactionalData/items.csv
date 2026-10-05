@@ -1,0 +1,8 @@
+ItemID,ItemName,Category,Price,Stock
+ITM01,Gaming Mouse,Peripheral,250000,15
+ITM02,Mechanical Keyboard,Peripheral,650000,8
+ITM03,Mousepad XL,Accessories,120000,25
+ITM04,Headset Stand,Accessories,85000,-2
+ITM05,Gaming Headset,Audio,450000,12
+ITM06,Webcam HD,Video,350000,NA
+ITM07,USB Condenser Mic,Audio,500000,6
